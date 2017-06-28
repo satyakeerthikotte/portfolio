@@ -593,14 +593,12 @@ header.masthead .header-content .header-content-inner p {
 .portfolio-modal .modal-content img {
 	margin-bottom: 30px
 }
-<<<<<<< HEAD
+
 .portfolio-modal .modal-content iframe {
 	min-height: 475px;
 	margin-bottom: 30px;
 	width:100%
 }
-=======
->>>>>>> 78312e5... source code
 .portfolio-modal .modal-content button {
 	cursor: pointer
 }
